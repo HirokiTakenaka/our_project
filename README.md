@@ -1,2 +1,6 @@
 # our_project
-enPiT
+enPiTの演習で作成。
+
+## 使い方
+* あああ
+* いいい
